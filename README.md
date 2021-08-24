@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on some web development at ShenZhen, China.
+- 👯 I’m looking to collaborate on [wx-sdk](https://github.com/ilovelll/wx-sdk).
+- 📫 How to reach me: [Blog](https://blog.leble.ink) & [Email](mailto:gradle@qq.com)
+- 😄 Pronouns: He/Him
 <!--
 **ilovelll/ilovelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
